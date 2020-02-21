@@ -19,3 +19,7 @@ What we covered:
 3. `go run main.go`
 4. `open http://localhost:8000/auth/github`
 5. Watch the terminal (we will make this more useful later)
+
+# Resources
+
+* [Github "Authorizing OAuth Apps"](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
